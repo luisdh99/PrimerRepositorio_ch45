@@ -4,7 +4,7 @@
 Tareas:
 1. Crear el repositorio
 2. Clonar el repositorio
-` git clone git@github.com:luisdh99/PrimerRepositorio_ch45.git
+` git clone git@github.com:luisdh99/PrimerRepositorio_ch45.git `
 3. Modificar el archivo README.md
 4. Subir los cambios
 ` git push origin main `
